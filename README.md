@@ -1,7 +1,7 @@
 # 2D-Action-Game-Mechaniks
 
 
-This game is my first game created on Unity using C# and some online assests. It is a 2D top down rogue-like shooter. This game conssits of four biomes at the moment and several different enemies. The game levels are randomly generated using an algrothim.
+This game is my first game created on Unity using C# and some online assests. It is a 2D top down rogue-like shooter. This game consists of four biomes at the moment and several different enemies. The game levels are randomly generated using an algrothim.
 
 Game:
 
